@@ -1,0 +1,5 @@
+{
+    "bundle1": "testdata/b1.trk",
+    "bundle2": "testdata/b2.trk",
+    "threshold": 6
+}
