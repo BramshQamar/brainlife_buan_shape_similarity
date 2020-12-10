@@ -10,8 +10,6 @@ if __name__ == '__main__':
     # Create Brainlife's output dirs if don't exist
     if not os.path.exists('output'):
         os.mkdir('output')
-    if not os.path.exists('secondary'):
-        os.mkdir('secondary')
 
     # Read Brainlife's config.json
     with open('config.json', encoding='utf-8') as config_json:
