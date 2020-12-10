@@ -16,8 +16,8 @@ if __name__ == '__main__':
         config = json.load(config_json)
 
 
-    fname1 = config .get('bundle1')
-    fname2 = config .get('bundle2')
+    fname1 = config.get('bundle1')
+    fname2 = config.get('bundle2')
 
     bundle1 = load_trk(fname1, reference=fname1,
                        bbox_valid_check=False).streamlines
