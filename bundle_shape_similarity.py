@@ -25,7 +25,7 @@ if __name__ == '__main__':
     bundle2 = load_trk(fname2, reference=fname2,
                        bbox_valid_check=False).streamlines
 
-    threshold = config .get('threshold')
+    threshold = config.get('threshold')
 
     clust_thr=[0.1]
 
