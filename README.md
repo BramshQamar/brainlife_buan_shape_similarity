@@ -1,4 +1,4 @@
-# BrainLife BUAN Shape Similarity
+# BrainLife BUAN Bundle Shape Similarity
 
 brainlife app for calculating BUAN shape similarity between two bundles
 
